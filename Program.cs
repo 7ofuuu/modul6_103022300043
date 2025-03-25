@@ -14,7 +14,7 @@ class Program
         SayaTubeVideo video8 = new SayaTubeVideo("Boboiboy");
         SayaTubeVideo video9 = new SayaTubeVideo("Dragon Ball");
         SayaTubeVideo video10 = new SayaTubeVideo("One punch man");
-        //video.PrintVideoDetails();
+        video1.PrintVideoDetails();
 
         SayaTubeUser user = new SayaTubeUser("Mohammad Ilham Firdaus");
         user.AddVideo(video1);
